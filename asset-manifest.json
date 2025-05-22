@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ReactExcelTest/static/css/main.b6cc54d7.css",
-    "main.js": "/ReactExcelTest/static/js/main.671b3294.js",
+    "main.js": "/ReactExcelTest/static/js/main.0937f733.js",
     "static/js/453.df7cb362.chunk.js": "/ReactExcelTest/static/js/453.df7cb362.chunk.js",
     "static/media/logo.svg": "/ReactExcelTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ReactExcelTest/index.html",
     "main.b6cc54d7.css.map": "/ReactExcelTest/static/css/main.b6cc54d7.css.map",
-    "main.671b3294.js.map": "/ReactExcelTest/static/js/main.671b3294.js.map",
+    "main.0937f733.js.map": "/ReactExcelTest/static/js/main.0937f733.js.map",
     "453.df7cb362.chunk.js.map": "/ReactExcelTest/static/js/453.df7cb362.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6cc54d7.css",
-    "static/js/main.671b3294.js"
+    "static/js/main.0937f733.js"
   ]
 }
