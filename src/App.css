@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.bordered-table {
+  border-collapse: collapse; /* Collapse border spacing */
+  width: 100%; /* Optional: Set table width */
+}
+
+.bordered-table th,
+.bordered-table td {
+  border: 1px solid #000; /* 1px solid black border for table cells */
+  padding: 8px; /* Optional: Add padding to cells */
+}
+
+.bordered-table th {
+  background-color: #f2f2f2; /* Optional: Add background color to table header */
+}
